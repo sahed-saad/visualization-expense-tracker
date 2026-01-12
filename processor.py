@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # Initialize the client for Gemini 2.5 (via OpenAI wrapper)
 client = OpenAI(
-    api_key="",
+    api_key="GEMINI_KEY",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
