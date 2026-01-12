@@ -1,0 +1,206 @@
+Date,Category,Amount,Description
+2023-10-09,Groceries,29.06,Vegetables and fruits
+2023-08-13,Utilities,123.23,Water bill
+2023-04-09,Shopping,134.67,Gadget
+2023-01-05,Other,56.47,Repair
+2023-02-06,Groceries,80.9,Vegetables and fruits
+2023-05-30,Groceries,46.0,Vegetables and fruits
+2023-12-06,Entertainment,24.19,Movie tickets
+2023-01-16,Other,47.37,Charity donation
+2023-07-29,Other,85.14,Pet supplies
+2023-07-18,Transport,12.82,Bus fare
+2023-04-16,Groceries,58.06,Supermarket run
+2023-11-07,Other,62.58,Medical expense
+2023-09-08,Utilities,98.11,Heating
+2023-11-05,Transport,9.27,Lyft ride
+2023-06-12,Other,72.31,Haircut
+2023-07-19,Other,28.13,Haircut
+2023-12-09,Transport,56.51,Parking fee
+2023-04-11,Transport,7.69,Train ticket
+2023-09-15,Food,44.21,Morning coffee
+2023-06-16,Stationery,6.93,Printer paper
+2023-05-16,Shopping,227.13,Electronics
+2023-11-16,Groceries,192.94,Cleaning supplies
+2023-10-30,Groceries,199.33,Bakery items
+2023-06-22,Groceries,172.53,Snacks for home
+2023-11-15,Transport,5.04,Gas station
+2023-06-03,Utilities,103.58,Cloud storage
+2023-05-19,Shopping,129.28,Gadget
+2023-02-03,Stationery,8.99,Notebooks
+2023-01-16,Other,25.3,Service fee
+2023-08-05,Transport,36.88,Train ticket
+2023-05-09,Entertainment,59.48,Theme park
+2023-04-24,Shopping,181.14,Gift for friend
+2023-02-19,Transport,22.03,Gas station
+2023-03-20,Food,19.03,Burger
+2023-11-22,Groceries,95.95,Beverages
+2023-04-14,Food,34.24,Morning coffee
+2023-12-06,Other,76.82,Service fee
+2023-12-13,Transport,4.47,Gas station
+2023-10-04,Stationery,12.89,Pens and pencils
+2023-03-04,Shopping,118.63,Shoes
+2023-04-13,Transport,4.01,Parking fee
+2023-02-16,Entertainment,50.0,Club entry
+2023-08-20,Groceries,86.27,Snacks for home
+2023-09-14,Other,89.9,Pharmacy
+2023-05-22,Shopping,126.18,Kitchenware
+2023-07-11,Other,51.14,Bank fee
+2023-07-03,Other,91.84,Bank fee
+2023-02-20,Stationery,7.91,Envelopes
+2023-04-08,Utilities,30.43,Cloud storage
+2023-02-05,Transport,28.02,Subway ticket
+2023-03-02,Utilities,132.47,Internet subscription
+2023-01-29,Shopping,138.1,Cosmetics
+2023-02-15,Food,32.02,Morning coffee
+2023-04-11,Utilities,84.19,Electricity bill
+2023-05-19,Other,36.05,Repair
+2023-01-18,Entertainment,25.77,Theme park
+2023-09-24,Other,71.95,Charity donation
+2023-02-28,Entertainment,15.79,Club entry
+2023-07-07,Transport,31.0,Lyft ride
+2023-11-08,Groceries,42.13,Vegetables and fruits
+2023-03-08,Groceries,104.7,Vegetables and fruits
+2023-06-22,Transport,12.66,Parking fee
+2023-07-07,Shopping,238.07,Gadget
+2023-11-26,Groceries,100.99,Bakery items
+2023-12-10,Entertainment,16.05,Concert tickets
+2023-02-09,Other,28.01,Pharmacy
+2023-09-23,Transport,10.79,Subway ticket
+2023-08-09,Other,63.65,Pharmacy
+2023-11-25,Groceries,69.51,Milk and eggs
+2023-01-07,Utilities,124.22,Phone bill
+2023-10-11,Stationery,24.02,Printer paper
+2023-07-01,Food,18.86,Burger
+2023-07-13,Stationery,15.84,Binder
+2023-02-11,Entertainment,14.98,Bowling
+2023-10-28,Other,99.4,Charity donation
+2023-06-28,Food,17.46,Tacos
+2023-04-03,Utilities,45.39,Electricity bill
+2023-07-22,Food,47.14,Burger
+2023-07-04,Food,18.13,Tacos
+2023-09-14,Other,24.74,Bank fee
+2023-08-01,Other,97.39,Miscellaneous
+2023-06-22,Stationery,10.84,Office supplies
+2023-06-07,Groceries,160.97,Milk and eggs
+2023-04-19,Transport,10.14,Train ticket
+2023-08-08,Groceries,164.2,Snacks for home
+2023-02-23,Utilities,131.97,Gas bill
+2023-06-25,Utilities,42.19,Trash collection
+2023-01-11,Stationery,24.45,Desk organizer
+2023-07-19,Entertainment,98.16,Theme park
+2023-01-04,Groceries,168.9,Snacks for home
+2023-05-06,Food,49.74,Sushi
+2023-08-23,Other,33.86,Pharmacy
+2023-03-02,Food,5.72,Pizza delivery
+2023-04-10,Other,33.32,Charity donation
+2023-04-03,Transport,3.19,Toll booth
+2023-10-24,Entertainment,93.41,Museum entry
+2023-10-11,Shopping,219.68,Home decor
+2023-06-20,Other,36.26,Laundry
+2023-03-23,Entertainment,24.14,Movie tickets
+2023-11-27,Entertainment,56.73,Sport event
+2023-07-24,Groceries,44.49,Weekly supplies
+2023-11-01,Entertainment,52.68,Concert tickets
+2023-04-13,Stationery,28.49,Desk organizer
+2023-01-13,Stationery,28.36,Markers
+2023-10-23,Groceries,147.29,Beverages
+2023-12-05,Transport,47.96,Bike rental
+2023-06-17,Shopping,295.74,Gadget
+2023-07-14,Groceries,117.5,Snacks for home
+2023-05-06,Utilities,147.97,Electricity bill
+2023-02-12,Other,36.77,Pet supplies
+2023-12-19,Entertainment,15.54,Movie tickets
+2023-09-12,Groceries,165.44,Bakery items
+2023-01-06,Stationery,37.44,Printer paper
+2023-03-19,Entertainment,42.21,Sport event
+2023-02-15,Entertainment,72.22,Bowling
+2023-09-03,Other,53.65,Laundry
+2023-12-15,Shopping,74.35,Electronics
+2023-05-17,Utilities,148.55,Electricity bill
+2023-02-05,Entertainment,54.87,Video game
+2023-09-04,Groceries,84.48,Cleaning supplies
+2023-11-22,Other,66.96,Laundry
+2023-08-13,Food,37.65,Ice cream
+2023-12-05,Entertainment,69.11,Streaming subscription
+2023-08-02,Utilities,124.12,Streaming service
+2023-11-01,Groceries,151.28,Meat and poultry
+2023-02-18,Entertainment,55.46,Bowling
+2023-08-02,Utilities,82.32,Internet subscription
+2023-01-21,Groceries,148.08,Bakery items
+2023-05-14,Entertainment,93.1,Sport event
+2023-10-07,Stationery,31.34,Desk organizer
+2023-04-24,Groceries,124.59,Cleaning supplies
+2023-07-01,Groceries,141.44,Bakery items
+2023-02-04,Food,31.15,Lunch at diner
+2023-10-17,Stationery,10.34,Sticky notes
+2023-12-23,Entertainment,34.25,Museum entry
+2023-10-06,Other,90.79,Miscellaneous
+2023-12-16,Transport,38.95,Bus fare
+2023-05-30,Food,11.98,Tacos
+2023-08-10,Food,33.47,Morning coffee
+2023-11-26,Entertainment,42.88,Concert tickets
+2023-09-23,Transport,27.31,Gas station
+2023-12-06,Stationery,9.11,Office supplies
+2023-03-07,Stationery,30.36,Office supplies
+2023-09-13,Entertainment,80.11,Book purchase
+2023-12-27,Food,42.36,Ice cream
+2023-09-22,Transport,3.27,Bus fare
+2023-08-27,Stationery,21.55,Stapler
+2023-04-10,Other,85.51,Laundry
+2023-01-24,Utilities,73.59,Electricity bill
+2023-06-24,Food,18.6,Morning coffee
+2023-02-23,Transport,45.97,Subway ticket
+2023-03-15,Shopping,142.3,Cosmetics
+2023-05-04,Transport,21.0,Taxi
+2023-03-07,Transport,40.36,Bike rental
+2023-07-13,Transport,35.57,Parking fee
+2023-07-31,Utilities,80.21,Electricity bill
+2023-12-28,Transport,34.73,Bike rental
+2023-02-12,Groceries,193.08,Meat and poultry
+2023-05-23,Entertainment,26.92,Bowling
+2023-02-06,Transport,14.4,Train ticket
+2023-02-09,Stationery,30.98,Markers
+2023-07-23,Food,21.23,Sushi
+2023-06-23,Utilities,79.71,Streaming service
+2023-08-14,Utilities,55.94,Streaming service
+2023-06-26,Groceries,27.94,Vegetables and fruits
+2023-10-25,Food,11.13,Lunch at diner
+2023-08-01,Food,48.23,Tacos
+2023-11-23,Groceries,134.95,Milk and eggs
+2023-08-02,Transport,4.97,Train ticket
+2023-12-18,Entertainment,78.29,Concert tickets
+2023-09-15,Food,18.52,Ice cream
+2023-03-01,Other,33.39,Repair
+2023-09-07,Entertainment,47.27,Streaming subscription
+2023-09-23,Transport,48.63,Bus fare
+2023-09-18,Shopping,157.9,Kitchenware
+2023-06-07,Stationery,12.17,Notebooks
+2023-03-08,Other,22.24,Medical expense
+2023-06-10,Entertainment,35.24,Video game
+2023-12-13,Transport,27.62,Subway ticket
+2023-10-19,Groceries,175.74,Milk and eggs
+2023-03-09,Food,40.97,Tacos
+2023-02-16,Groceries,125.57,Milk and eggs
+2023-01-16,Other,63.6,Laundry
+2023-08-18,Groceries,183.96,Beverages
+2023-02-18,Shopping,144.88,Gadget
+2023-11-08,Shopping,109.61,Jeans
+2023-08-09,Utilities,90.51,Electricity bill
+2023-07-29,Stationery,34.49,Pens and pencils
+2023-10-09,Utilities,97.65,Water bill
+2023-06-10,Groceries,175.36,Bakery items
+2023-12-04,Stationery,20.43,Printer paper
+2023-10-15,Other,21.44,Service fee
+2023-01-05,Groceries,55.25,Beverages
+2023-10-03,Stationery,34.47,Binder
+2023-11-29,Groceries,77.47,Milk and eggs
+2023-02-27,Utilities,41.08,Cloud storage
+2023-03-26,Other,88.47,Medical expense
+2023-02-01,Groceries,137.57,Pantry staples
+2023-06-29,Shopping,171.45,Jeans
+2023-06-17,Transport,56.17,Gas station
+2026-01-11,Other,19.95,phone bill utility
+2026-01-11,Transportation,2.9,rode the bus
+2026-01-12,Shopping,25.22,bought sharper and pencils
+2026-01-12,Utilities,22.99,TMobile bill
+2026-01-12,Utilities,22.99,TMobile bill
